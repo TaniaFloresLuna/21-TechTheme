@@ -1,0 +1,70 @@
+/*Encabezados*/
+.uno{
+	background-image: url(../img/background/hero.jpg);
+	opacity: 0.8;
+	height: 1100px;
+}
+.dos{
+	background-image: url(../img/laptop-features.png);
+	background-repeat: no-repeat;
+	height: 600px;
+}
+.tres{
+	background-image: url(../img/background/city.jpg);
+	background-size: 100%;
+	height: 600px;
+}
+/*Menú*/
+li{
+	display: inline-block;
+	margin:2%;
+}
+ul{
+	margin: 0 30%;
+}
+/*Primera sección*/
+button{
+	background-color: black;
+	opacity: 0.5;
+	width: 95px;
+	height: 55px;
+	margin-left: 30%;
+	margin-top: 30%;
+}
+.ins{
+	margin-left: 10%;
+	width: 7%;
+	height: 30px;
+}
+	/*ECCION 2 ICONOS*/
+.icon { 
+	width: 30px;
+	height: 30px; 
+}
+
+.espacio {
+	margin-top: 60px;
+}
+/*Pagos*/
+.bk-w{
+	height: 600px;
+	width: 350px;
+	margin-left: 1%;
+	display: block;
+	position: relative;
+}
+.blk-bg{
+	height: 100px;
+	width: 270px;
+	background-color: black;
+	margin-top: 5%;
+	margin-left: 8%;
+}
+.m-bg-gray{
+	height: 100px;
+	width: 270px;
+	background-color: black;
+	opacity: 0.2;
+	margin-top: 0;
+	margin-left: 8%;
+}
