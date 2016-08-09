@@ -15,10 +15,7 @@
 	height: 600px;
 }
 /*Menú*/
-li{
-	display: inline-block;
-	margin:2%;
-}
+
 ul{
 	margin: 0 30%;
 }
@@ -67,4 +64,82 @@ button{
 	opacity: 0.2;
 	margin-top: 0;
 	margin-left: 8%;
+}
+
+
+	/*sECCION 2 ICONOS*/
+.icon { 
+	width: 50px;
+	height: 50px; }
+
+.espacio {
+	margin-top: 60px;
+}
+
+
+	/*PORTAFOLIO*/
+.fondo {
+	background-color: #D8D8D8;
+}
+
+.mar { 
+	margin-top: 60px;
+	margin-bottom: 25px; }
+
+.cuadro {
+	background-color: white;
+	height: 40px;
+	width: 90px;
+	padding-top: 15px;
+}
+
+.fa-2em {
+	font-size: 2em;
+}
+
+li{ display: inline-block;
+	margin-top: 50px;
+	margin-left: 15px;
+	}
+
+.foto {
+	height: 300px;
+	width: 95%;
+	margin-top: 20px;
+}
+
+.marco {
+	background-color: white;
+	height: 380px;
+	width: 80%;
+	margin-top: 40px;	
+}
+
+.espacio2 { 
+	margin-left:80px; 
+}
+
+	/*BOTON*/
+.bo-gris { 
+		height:60px;
+		width: 110px;
+		background-color: #273746;
+		margin-top: 50px;
+		margin-bottom: 50px;
+		padding-top: 20px;
+		margin-left: 47%;
+				}
+
+	/*FOTO REDONDA */
+.mar2 { 
+	margin-top: 60px;
+	margin-bottom: 60px;
+		 }
+
+.fotito {
+	border-radius: 100%;
+	height: 10%;
+	width: 10%;
+	margin-bottom: 20px;
+	margin-top: 60px;
 }
